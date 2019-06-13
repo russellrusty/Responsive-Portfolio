@@ -219,7 +219,8 @@ input[type=submit] {
 
 @media (max-width:640px){
   .container{
-      width:100%
+      width:100%;
+      
   }
   #logo {
     width: 100%
@@ -235,11 +236,14 @@ input[type=submit] {
     width: 75%
   }
   .main-section {
-  width: 90%
+  width: 90%;
+  margin-bottom: 40%;
 }
   #contact-form {
   width: 100%
 }
+
+
 
 
 
