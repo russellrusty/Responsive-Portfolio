@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+This responsive portfolio shows the differences in Desktop, iPad and Mobile device pages.
+
 You can use the [editor on GitHub](https://github.com/russellrusty/Responsive-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
